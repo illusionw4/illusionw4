@@ -9,20 +9,20 @@
 
 - 👯 I’m looking to collaborate on **Virtual Networking Room**
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=8395698553295305345, https://github.com/illusionw4?tab=repositories](https://play.google.com/store/apps/dev?id=8395698553295305345, https://github.com/illusionw4?tab=repositories)
+- 👨‍💻 All of my projects are available at [PlayStore](https://play.google.com/store/apps/dev?id=8395698553295305345),[Github](https://github.com/illusionw4?tab=repositories)
 
 - 💬 Ask me about **Kotlin,Firebase,XML,Google Playstore**
 
 - 📫 How to reach me **harshitasthana02@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/harshit-asthana-3b006b20a/](https://www.linkedin.com/in/harshit-asthana-3b006b20a/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/harshit-asthana-3b006b20a/)
 
 - ⚡ Fun fact **Still debugging**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/asthana2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asthana2002" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harshit-asthana-3b006b20a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-asthana-3b006b20a/" height="30" width="40" /></a>
+<a href="https://twitter.com/asthana2002" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968958.png" alt="asthana2002" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harshit-asthana-3b006b20a/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="https://www.linkedin.com/in/harshit-asthana-3b006b20a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
