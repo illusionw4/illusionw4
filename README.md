@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [PlayStore](https://play.google.com/store/apps/dev?id=7061676947810517986),[Github](https://github.com/illusionw4?tab=repositories)
 
-- 💬 Ask me about **Kotlin,Firebase,XML,Google Playstore**
+- 💬 Ask me about **Kotlin,Firebase,XML,JetpackCompose,Clean Architecture,API,Google Playstore**
 
 - 📫 How to reach me **harshitasthana02@gmail.com**
 
