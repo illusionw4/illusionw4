@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/asthana2002" target="blank"><img src="https://img.shields.io/twitter/follow/asthana2002?logo=twitter&style=for-the-badge" alt="asthana2002" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile App Development(React Native)**
+- 🌱 I’m currently learning **Mobile App Development**
 
 - 👯 I’m looking to collaborate on **Virtual Networking Room**
 
